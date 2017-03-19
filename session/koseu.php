@@ -1,6 +1,11 @@
 <?php
 
-// http://localhost:8888/silex/hello/bob
+/*
+ * This tests storing Siles/Symfonty sessions in the default PHP
+ * store and makes $_SESSION work.
+ *
+ * http://symfony.com/doc/current/components/http_foundation/session_php_bridge.html
+ */
 
 use Symfony\Component\HttpFoundation\Session\Session;
 use Symfony\Component\HttpFoundation\Session\Storage\PhpBridgeSessionStorage;

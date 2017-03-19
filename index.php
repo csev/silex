@@ -10,4 +10,5 @@ target="_blank">Symfony PhpBridgeSessionStorage</a>.  Just keep pressing refresh
 <li><a href="templates/array/bob" target="_blank">Load template from an array</a></li>
 <li><a href="templates/class/bob" target="_blank">Load template from a class</a></li>
 </ul>
+<li>Show <a href="level1/level2/hello/bob" target="_blank">Show that silex routes are relative</a></li>
 </ul>
