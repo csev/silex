@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This tests storing Siles/Symfonty sessions in the default PHP
+ * This tests storing Siles/Symfony sessions in the default PHP
  * store and makes $_SESSION work.
  *
  * http://symfony.com/doc/current/components/http_foundation/session_php_bridge.html
