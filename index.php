@@ -9,6 +9,9 @@ a[target="_blank"]:after {
 </head>
 <body>
 <h1>Testing Some Silex Stuff</h1>
+<p>
+You can find the source code to these exaperiments on 
+<a href="https://github.com/csev/silex" target="_blank">github</a>.
 <ul>
 <li><a href="session/hello/bob" target="_blank">Test Legacy Sessions</a> using
 <a href="http://symfony.com/doc/current/components/http_foundation/session_php_bridge.html"
