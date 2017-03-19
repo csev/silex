@@ -10,7 +10,7 @@ a[target="_blank"]:after {
 <body>
 <h1>Testing Some Silex Stuff</h1>
 <p>
-You can find the source code to these exaperiments on 
+You can find the source code to these experiments on 
 <a href="https://github.com/csev/silex" target="_blank">github</a>.
 <ul>
 <li><a href="session/hello/bob" target="_blank">Test Legacy Sessions</a> using
